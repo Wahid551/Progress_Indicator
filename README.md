@@ -1,16 +1,13 @@
-# fprogressindicator
+# Flutter_Progress_Indicator
 
 A new Flutter application.
 
-## Getting Started
+## Description
+Flutter Progress indicator || Determinant & Un_Determinant
 
-This project is a starting point for a Flutter application.
+## Screenshot
+<img src='https://user-images.githubusercontent.com/73393935/103137204-9f114c00-46e8-11eb-84c6-6d3e90f45e0c.jpeg' width=280 />
 
-A few resources to get you started if this is your first Flutter project:
+## Gif
+<img src='https://user-images.githubusercontent.com/73393935/103137210-b4867600-46e8-11eb-9b4d-d8b486555c08.gif' width=300 />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
